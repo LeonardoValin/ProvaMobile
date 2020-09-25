@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prova</string>
+    <string name="prova_pdm">Prova PDM</string>
+    <string name="button">Button</string>
+    <string name="iniciar">INICIAR</string>
+    <string name="leonardo">Leonardo</string>
+    <string name="valin">Valin</string>
+    <string name="bem_vindo">Bem-Vindo</string>
+</resources>
